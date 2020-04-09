@@ -1,0 +1,9 @@
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\bin\Debug\netstandard2.0\ProjectEuler.Domain.deps.json
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\bin\Debug\netstandard2.0\ProjectEuler.Domain.dll
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\bin\Debug\netstandard2.0\ProjectEuler.Domain.pdb
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\obj\Debug\netstandard2.0\ProjectEuler.Domain.csprojAssemblyReference.cache
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\obj\Debug\netstandard2.0\ProjectEuler.Domain.csproj.CoreCompileInputs.cache
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\obj\Debug\netstandard2.0\ProjectEuler.Domain.AssemblyInfoInputs.cache
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\obj\Debug\netstandard2.0\ProjectEuler.Domain.AssemblyInfo.cs
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\obj\Debug\netstandard2.0\ProjectEuler.Domain.dll
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.Domain\obj\Debug\netstandard2.0\ProjectEuler.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.csprojAssemblyReference.cache
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.csproj.CoreCompileInputs.cache
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.AssemblyInfoInputs.cache
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.AssemblyInfo.cs
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.App.deps.json
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.App.runtimeconfig.json
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.App.runtimeconfig.dev.json
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.App.dll
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.App.pdb
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.Domain.dll
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\bin\Debug\netcoreapp2.2\ProjectEuler.Domain.pdb
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.csproj.CopyComplete
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.dll
+C:\Lucas\_github\ProjectEuler\src\ProjectEuler.App\obj\Debug\netcoreapp2.2\ProjectEuler.App.pdb
