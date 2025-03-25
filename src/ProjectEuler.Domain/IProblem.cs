@@ -1,12 +1,11 @@
-namespace ProjectEuler.Domain
-{
-    public interface IProblem
-    {
-        int Id { get; set; }
-        string Url { get; set; }
-        string Title { get; set; }
-        string Description { get; set; }
+namespace ProjectEuler.Domain;
 
-        void Solve();
-    }
+public interface IProblem
+{
+    int Id { get; set; }
+    string Url { get; set; }
+    string Title { get; set; }
+    string Description { get; set; }
+
+    decimal Solve();
 }
